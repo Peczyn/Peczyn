@@ -1,10 +1,12 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Marcin</h1>
+
+
+
+<img align="center" src="https://github.com/Peczyn/Peczyn/assets/142744067/3fcbbc73-f708-4e00-81d4-8d1661d64015">
+
 <h3 align="center">A passionate student from Poland</h3>
-
-
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
