@@ -1,8 +1,8 @@
 <img align="center" src="https://github.com/Peczyn/Peczyn/assets/142744067/e8d65437-87bf-4b4e-914c-09a88e2f3d67">
 
 <p align="center">
-  <img width="305"  src="https://github-readme-stats.vercel.app/api/pin/?username=Peczyn&repo=MAZE_PROJECT&theme=apprentice" />
-  <img width="305"  src="https://github-readme-stats.vercel.app/api/pin/?username=Peczyn&repo=MAZE_PROJECT&theme=apprentice"  />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=Peczyn&repo=MAZE_PROJECT&theme=apprentice" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=Peczyn&repo=MAZE_PROJECT&theme=apprentice"  />
   <img width="41%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=peczyn&show_icons=true&locale=en&layout=compact&theme=apprentice&" alt="peczyn" />
   <img width="57%"  src="https://github-readme-streak-stats.herokuapp.com/?user=peczyn&theme=apprentice" alt="peczyn" />
 </p>
