@@ -13,7 +13,7 @@
   <a href="https://github.com/Peczyn/Sorting_Visualization_JAVA">
   <img width=53%  src="https://github-readme-stats.vercel.app/api/pin/?username=Peczyn&repo=Sorting_Visualization_JAVA&theme=apprentice"  />
   </a>
-  <img width="41%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=peczyn&show_icons=true&locale=en&layout=compact&theme=apprentice&" alt="peczyn" />
+  <img width="41%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=peczyn&show_icons=true&locale=en&layout=compact&theme=apprentice&hide=CMAKE,makefile" alt="peczyn" />
   <img width="57%"  src="https://github-readme-streak-stats.herokuapp.com/?user=peczyn&theme=apprentice" alt="peczyn" />
 </p>
 x
