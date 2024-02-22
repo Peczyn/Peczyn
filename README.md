@@ -16,13 +16,8 @@
   <img width="41%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=peczyn&show_icons=true&locale=en&layout=compact&theme=apprentice&hide=CMAKE,makefile" alt="peczyn" />
   <img width="57%"  src="https://github-readme-streak-stats.herokuapp.com/?user=peczyn&theme=apprentice" alt="peczyn" />
 </p>
-x
 <h3 align="center">A passionate student from Poland</h3>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3 align="center">Languages and Tools:</h3>
-
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
